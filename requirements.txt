@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+sentencepiece
+datasets
+evaluate
+rouge_score
+numpy
+protobuf==3.20.*
