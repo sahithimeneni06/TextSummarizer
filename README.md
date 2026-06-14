@@ -48,7 +48,7 @@ Text-Summarizer/
 ### ✅ Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/text-summarizer.git
+git clone https://github.com/sahithimeneni06/textsummarizer.git
 cd text-summarizer
 ```
 ### ✅ Step 2: Create Virtual Environment (Optional but Recommended)
